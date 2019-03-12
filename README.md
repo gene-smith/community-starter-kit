@@ -1,10 +1,12 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Ullamco id amet voluptate incididunt esse. Ullamco non mollit sint occaecat officia commodo eiusmod duis qui sunt id aute. Non duis anim exercitation adipisicing incididunt deserunt sunt eu officia cillum exercitation culpa. Eiusmod Lorem consequat aute commodo nostrud ad velit cillum aliqua. Ad eiusmod qui dolor incididunt eiusmod ut dolore eu excepteur et ex non ut. Elit nostrud sunt qui nostrud ex non culpa pariatur est Lorem amet deserunt tempor sint. Nulla eiusmod cillum adipisicing eiusmod enim eu occaecat id excepteur cillum. 
 
 ## What it does
 
-FEATURES PLACEHOLDER
+* Ullamco id amet voluptate incididunt esse. 
+* Ullamco id amet voluptate incididunt esse. 
+* Ullamco id amet voluptate incididunt esse. 
 
 ## Getting started
 
